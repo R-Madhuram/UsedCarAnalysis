@@ -11,4 +11,4 @@ For the given data set we found that Polynomial Bayesian Ridge regression outper
 We propose that future work that takes into consideration the complexity of the system (used car prices) like Grey relational analysis (GRA) filter along with regression like Back propagation Neural Net regression and more advanced hyper parameter tuning methods (like particle swarm optimization) might yield models with better accuracy for used car price prediction. Also, utilization of kernel tricks might  improve the performance of the model as well. Further, dataset with lesser data integrity issues could also be utilized to make predictions as used-car price prediction is well documented problem in machine-learning with many available datasets. 
 
 Key-words: Used car price, Bayesian Ridge regression, permutation importance, Pearson’s-correlation
-
+link to notebook: https://github.com/R-Madhuram/UsedCarAnalysis/blob/main/prompt_IV.ipynb
